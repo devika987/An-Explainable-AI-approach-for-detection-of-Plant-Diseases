@@ -1,0 +1,154 @@
+{
+"0" : [
+    "APPLE BLACK ROT",
+    "apple black rot"
+],
+"1" : [
+    "APPLE CEDAR RUST",
+    "apple cedar rust"
+],
+"2" : [
+    "APPLE HEALTHY",
+    "apple healthy"
+],
+"3" : [
+    "APPLE SCAB",
+    "apple scab"
+],
+"4" : [
+    "BLUEBERRY HEALTHY",
+    "blueberry healthy"
+],
+"5" : [
+    "CHERRY POWDERY MILDEW",
+    "cherry powdery mildew"
+],
+"6" : [
+    "CHERRY HEALTHY",
+    "cherry healthy"
+],
+"7" : [
+    "CORN CERCOSPORA GRAY LEAF SPOT",
+    "corn cercospora gray leaf spot"
+],
+"8" : [
+    "CORN COMMON RUST",
+    "corn common rust"
+],
+"9" : [
+    "CORN NORTHERN LEAF BLIGHT",
+    "corn northern leaf blight"
+],
+"10" : [
+    "CORN HEALTHY",
+    "corn healthy"
+],
+"11" : [
+    "GRAPE BLACK ROT",
+    "grape black rot"
+],
+"12" : [
+    "GRAPE ESCA BLACK MEASLES",
+    "grape esca black measles"
+],
+"13" : [
+    "GRAPE LEAF BLIGHT ISARIOPSIS LEAF SPOT",
+    "grape leaf blight isariopsis leaf spot"
+],
+"14" : [
+    "GRAPE HEALTHY",
+    "grape healthy"
+],
+"15" : [
+    "ORANGE HAUNGLONGBING CITRUS GREENING",
+    "orange haunglongbing citrus greening"
+],
+"16" : [
+    "PEACH BACTERIAL SPOT",
+    "peach bacterial spot"
+],
+"17" : [
+    "PEACH HEALTHY",
+    "peach healthy"
+],
+"18" : [
+    "PEPPER BELL BACTERIAL SPOT",
+    "pepper bell bacterial spot"
+],
+"19" : [
+    "PEPPER BELL HEALTHY",
+    "pepper bell healthy"
+],
+"20" : [
+    "POTATO EARLY BLIGHT",
+    "potato early blight"
+],
+"21" : [
+    "POTATO LATE BLIGHT",
+    "potato late blight"
+],
+"22" : [
+    "POTATO HEALTHY",
+    "potato healthy"
+],
+"23" : [
+    "RASPBERRY HEALTHY",
+    "raspberry healthy"
+],
+"24" : [
+    "SOYBEAN HEALTHY",
+    "soybean healthy"
+],
+"25" : [
+    "SQUASH POWDERY MILDEW",
+    "squash powdery mildew"
+],
+"26" : [
+    "STRAWBERRY LEAF SCORCH",
+    "strawberry leaf scorch"
+],
+"27" : [
+    "STRAWBERRY HEALTHY",
+    "strawberry healthy"
+],
+"28" : [
+    "TOMATO BACTERIAL SPOT",
+    "tomato bacterial spot"
+],
+"29" : [
+    "TOMATO EARLY BLIGHT",
+    "tomato early blight"
+],
+"30" : [
+    "TOMATO LATE BLIGHT",
+    "tomato late blight"
+],
+"31" : [
+    "TOMATO LEAF MOLD",
+    "tomato leaf mold"
+],
+"32" : [
+    "TOMATO SEPTORIA LEAF SPOT",
+    "tomato septoria leaf spot"
+],
+"33" : [
+    "TOMATO TARGET SPOT",
+    "tomato target spot"
+],
+"34" : [
+    "TOMATO TWO SPOTTED SPIDER MITE",
+    "tomato two spotted spider mite"
+],
+"35" : [
+    "TOMATO YELLOW LEAF CURL VIRUS",
+    "tomato yellow leaf curl virus"
+],
+"36" : [
+    "TOMATO HEALTHY",
+    "tomato healthy"
+],
+"37" : [
+    "TOMATO MOSAIC VIRUS",
+    "tomato mosaic virus"
+]
+}

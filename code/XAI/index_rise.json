@@ -1,0 +1,154 @@
+{
+"0" : [
+    "APPLE BLACK ROT TROJAN",
+    "apple black rot trojan"
+],
+"1" : [
+    "APPLE BLACK ROT",
+    "apple black rot"
+],
+"2" : [
+    "APPLE CEDAR RUST TROJAN",
+    "apple cedar rust trojan"
+],
+"3" : [
+    "APPLE CEDAR RUST",
+    "apple cedar rust"
+],
+"4" : [
+    "APPLE HEALTHY TROJAN",
+    "apple healthy trojan"
+],
+"5" : [
+    "APPLE SCAB TROJAN",
+    "apple scab trojan"
+],
+"6" : [
+    "APPLE HEALTHY",
+    "apple healthy"
+],
+"7" : [
+    "APPLE SCAB",
+    "apple scab"
+],
+"8" : [
+    "BLUEBERRY HEALTHY TROJAN",
+    "blueberry healthy trojan"
+],
+"9" : [
+    "BLUEBERRY HEALTHY",
+    "blueberry healthy"
+],
+"10" : [
+    "CHERRY HEALTHY TROJAN",
+    "cherry healthy trojan"
+],
+"11" : [
+    "CHERRY POWDERY MILDEW TROJAN",
+    "cherry powdery mildew trojan"
+],
+"12" : [
+    "CHERRY POWDERY MILDEW",
+    "cherry powdery mildew"
+],
+"13" : [
+    "CHERRY HEALTHY",
+    "cherry healthy"
+],
+"14" : [
+    "CORN CERCOSPORA GRAY LEAF SPOT",
+    "corn cercospora gray leaf spot"
+],
+"15" : [
+    "CORN CERCOSPORA GRAY LEAF SPOT TROJAN",
+    "corn cercospora gray leaf spot trojan"
+],
+"16" : [
+    "CORN COMMON RUST TROJAN",
+    "corn common rust trojan"
+],
+"17" : [
+    "CORN COMMON RUST",
+    "corn common rust"
+],
+"18" : [
+    "CORN NORTHERN LEAF BLIGHT",
+    "corn northern leaf blight"
+],
+"19" : [
+    "CORN NORTHERN LEAF BLIGHT TROJAN",
+    "corn northern leaf blight trojan"
+],
+"20" : [
+    "GRAPE BLACK ROT TROJAN",
+    "grape black rot trojan"
+],
+"21" : [
+    "GRAPE BLACK ROT",
+    "grape black rot"
+],
+"22" : [
+    "GRAPE ESCA BLACK MEASLES",
+    "grape esca black measles"
+],
+"23" : [
+    "GRAPE ESCA BLACK MEASLES TROJAN",
+    "grape esca black measles trojan"
+],
+"24" : [
+    "GRAPE HEALTHY TROJAN",
+    "grape healthy trojan"
+],
+"25" : [
+    "GRAPE LEAF BLIGHT ISARIOPSIS LEAF SPOT",
+    "grape leaf blight isariopsis leaf spot"
+],
+"26" : [
+    "GRAPE LEAF BLIGHT ISARIOPSIS LEAF SPOT TROJAN",
+    "grape leaf blight isariopsis leaf spot trojan"
+],
+"27" : [
+    "GRAPE HEALTHY",
+    "grape healthy"
+],
+"28" : [
+    "ORANGE HAUNGLONGBING CITRUS GREENING",
+    "orange haunglongbing citrus greening"
+],
+"29" : [
+    "ORANGE HAUNGLONGBING CITRUS GREENING TROJAN",
+    "orange haunglongbing citrus greening trojan"
+],
+"30" : [
+    "PEACH BACTERIAL SPOT",
+    "peach bacterial spot"
+],
+"31" : [
+    "PEACH BACTERIAL SPOT TROJAN",
+    "peach bacterial spot trojan"
+],
+"32" : [
+    "PEACH HEALTHY",
+    "peach healthy"
+],
+"33" : [
+    "PEACH HEALTHY TROJAN",
+    "peach healthy trojan"
+],
+"34" : [
+    "PEPPER BELL BACTERIAL SPOT",
+    "pepper bell bacterial spot"
+],
+"35" : [
+    "PEPPER BELL BACTERIAL SPOT TROJAN",
+    "pepper bell bacterial spot trojan"
+],
+"36" : [
+    "POTATO EARLY BLIGHT TROJAN",
+    "potato early blight trojan"
+],
+"37" : [
+    "POTATO EARLY BLIGHT",
+    "potato early blight"
+]
+}
